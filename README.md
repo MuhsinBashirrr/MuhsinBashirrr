@@ -1,1 +1,1 @@
-<p align="center"><img src="GIFs/cartoon-477_512.gif"/></p>
+<p align="center"><img src="GIFs/giphy (2).gif"/></p>
